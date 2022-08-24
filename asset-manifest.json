@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/photo-port/static/css/main.a079f68e.css",
-    "main.js": "/photo-port/static/js/main.f08db56e.js",
-    "static/js/787.dd376143.chunk.js": "/photo-port/static/js/787.dd376143.chunk.js",
-    "static/media/photo1.jpg": "/photo-port/static/media/photo1.f1ccf148d674e4b99077.jpg",
-    "static/media/profile-pic.jpg": "/photo-port/static/media/profile-pic.bd300ec522ca0ebeaf59.jpg",
-    "static/media/background.jpg": "/photo-port/static/media/background.6853571b1b6f18575aac.jpg",
-    "static/media/photo6.jpg": "/photo-port/static/media/photo6.f2c042669e1a1c7acc8f.jpg",
-    "static/media/photo4.jpg": "/photo-port/static/media/photo4.1bc10a4652617450ae23.jpg",
-    "static/media/master-resume.pdf": "/photo-port/static/media/master-resume.eac32aacd8fd6045374c.pdf",
-    "static/media/photo5.jpg": "/photo-port/static/media/photo5.96f1538cb9276be36b95.jpg",
-    "static/media/photo2.jpg": "/photo-port/static/media/photo2.275c7a37bdbf1711c593.jpg",
-    "static/media/photo3.jpg": "/photo-port/static/media/photo3.d2e828b41d887300c59e.jpg",
-    "index.html": "/photo-port/index.html",
-    "main.a079f68e.css.map": "/photo-port/static/css/main.a079f68e.css.map",
-    "main.f08db56e.js.map": "/photo-port/static/js/main.f08db56e.js.map",
-    "787.dd376143.chunk.js.map": "/photo-port/static/js/787.dd376143.chunk.js.map"
+    "main.css": "/coding-portfolio/static/css/main.f2b3a1b9.css",
+    "main.js": "/coding-portfolio/static/js/main.9af3a37a.js",
+    "static/js/787.dd376143.chunk.js": "/coding-portfolio/static/js/787.dd376143.chunk.js",
+    "static/media/photo1.jpg": "/coding-portfolio/static/media/photo1.f1ccf148d674e4b99077.jpg",
+    "static/media/profile-pic.jpg": "/coding-portfolio/static/media/profile-pic.bd300ec522ca0ebeaf59.jpg",
+    "static/media/background.jpg": "/coding-portfolio/static/media/background.6853571b1b6f18575aac.jpg",
+    "static/media/photo6.jpg": "/coding-portfolio/static/media/photo6.f2c042669e1a1c7acc8f.jpg",
+    "static/media/photo4.jpg": "/coding-portfolio/static/media/photo4.1bc10a4652617450ae23.jpg",
+    "static/media/master-resume.pdf": "/coding-portfolio/static/media/master-resume.eac32aacd8fd6045374c.pdf",
+    "static/media/photo5.jpg": "/coding-portfolio/static/media/photo5.96f1538cb9276be36b95.jpg",
+    "static/media/photo2.jpg": "/coding-portfolio/static/media/photo2.275c7a37bdbf1711c593.jpg",
+    "static/media/photo3.jpg": "/coding-portfolio/static/media/photo3.d2e828b41d887300c59e.jpg",
+    "index.html": "/coding-portfolio/index.html",
+    "main.f2b3a1b9.css.map": "/coding-portfolio/static/css/main.f2b3a1b9.css.map",
+    "main.9af3a37a.js.map": "/coding-portfolio/static/js/main.9af3a37a.js.map",
+    "787.dd376143.chunk.js.map": "/coding-portfolio/static/js/787.dd376143.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a079f68e.css",
-    "static/js/main.f08db56e.js"
+    "static/css/main.f2b3a1b9.css",
+    "static/js/main.9af3a37a.js"
   ]
 }
