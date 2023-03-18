@@ -10,21 +10,21 @@ const Portfolio = () => {
     const projects = [
         {
             photo: photo1,
-            name: "Scheduling My Workday",
+            name: "Workday Scheduler",
             category: "HTML, Javascript, JQuery",
-            link: "https://jeffrylangford.github.io/scheduling-my-workday/"
+            link: "https://github.com/JeffryLangford/scheduling-my-workday"
         },
         {
             photo: photo2,
             name: "Classical Music Composer Quiz",
             category: "HTML, Javascript, JQuery, Web APIs",
-            link: "https://jeffrylangford.github.io/Quiz-for-Coding/"
+            link: "https://github.com/JeffryLangford/Quiz-for-Coding"
         },
         {
             photo: photo3,
             name: "Note Taker App",
             category: "Javascript, Express",
-            link: "https://morning-oasis-93261.herokuapp.com/"
+            link: "https://github.com/JeffryLangford/taker-of-the-notes"
         },
         {
             photo: photo4,
@@ -36,7 +36,7 @@ const Portfolio = () => {
             photo: photo5,
             name: "Date Night in Austin",
             category: "HTML, Tailwind, Javascript, Third-Party APIs",
-            link: "https://jeffrylangford.github.io/group-project-1/"
+            link: "https://github.com/JeffryLangford/group-project-1"
         },
         {
             photo: photo6,
