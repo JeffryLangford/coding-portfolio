@@ -28,9 +28,9 @@ const Portfolio = () => {
         },
         {
             photo: photo4,
-            name: "Social Network Server",
-            category: "Javascript, MongoDB",
-            link: "https://github.com/JeffryLangford/social-network-server"
+            name: "My Coding Portfolio",
+            category: "Javascript, React, State",
+            link: "https://github.com/JeffryLangford/coding-portfolio"
         },
         {
             photo: photo5,
