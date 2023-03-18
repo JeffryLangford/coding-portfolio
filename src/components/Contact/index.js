@@ -21,12 +21,15 @@ function Contact() {
       const isValid = validateEmail(e.target.value);
       if (!isValid) {
         setErrorMessage('Your email is invalid.');
+        if (!e.target.value) {
+          setErrorMessage('You need to provide your email.')
+        }
       } else {
         setErrorMessage('');
       }
     } else {
       if (!e.target.value.length) {
-        setErrorMessage(`${e.target.name} is required.`);
+        setErrorMessage(`Your ${e.target.name} is required.`);
       } else {
         setErrorMessage('');
       }
