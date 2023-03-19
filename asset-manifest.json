@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/coding-portfolio/static/css/main.587166b3.css",
-    "main.js": "/coding-portfolio/static/js/main.5a70218c.js",
+    "main.js": "/coding-portfolio/static/js/main.60b7b83a.js",
     "static/js/787.dd376143.chunk.js": "/coding-portfolio/static/js/787.dd376143.chunk.js",
     "static/media/photo1.jpg": "/coding-portfolio/static/media/photo1.f1ccf148d674e4b99077.jpg",
     "static/media/profile-pic.jpg": "/coding-portfolio/static/media/profile-pic.bd300ec522ca0ebeaf59.jpg",
     "static/media/background.jpg": "/coding-portfolio/static/media/background.6853571b1b6f18575aac.jpg",
     "static/media/photo6.jpg": "/coding-portfolio/static/media/photo6.f2c042669e1a1c7acc8f.jpg",
     "static/media/photo4.jpg": "/coding-portfolio/static/media/photo4.1bc10a4652617450ae23.jpg",
-    "static/media/master-resume.pdf": "/coding-portfolio/static/media/master-resume.eac32aacd8fd6045374c.pdf",
     "static/media/photo5.jpg": "/coding-portfolio/static/media/photo5.96f1538cb9276be36b95.jpg",
+    "static/media/resume.pdf": "/coding-portfolio/static/media/resume.82ba9f0fdb18f7a9f2b0.pdf",
     "static/media/photo2.jpg": "/coding-portfolio/static/media/photo2.275c7a37bdbf1711c593.jpg",
     "static/media/photo3.jpg": "/coding-portfolio/static/media/photo3.d2e828b41d887300c59e.jpg",
     "index.html": "/coding-portfolio/index.html",
     "main.587166b3.css.map": "/coding-portfolio/static/css/main.587166b3.css.map",
-    "main.5a70218c.js.map": "/coding-portfolio/static/js/main.5a70218c.js.map",
+    "main.60b7b83a.js.map": "/coding-portfolio/static/js/main.60b7b83a.js.map",
     "787.dd376143.chunk.js.map": "/coding-portfolio/static/js/787.dd376143.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.587166b3.css",
-    "static/js/main.5a70218c.js"
+    "static/js/main.60b7b83a.js"
   ]
 }
